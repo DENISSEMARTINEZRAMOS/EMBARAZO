@@ -1,0 +1,31 @@
+body{
+
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-floral-diseno-plano_23-2149252174.jpg?t=st=1717089450~exp=1717093050~hmac=fc1a8c5b50b43dc6701184e9e69713d85c339c117a6771a3873877fac1162f82&w=1380);
+}
+.cabecera{
+    color: #fff;
+    height: 400px;
+    line-height: 400px;
+    text-align: center;
+    vertical-align: middle;
+    text-shadow: black 0px 0px 10px;
+}
+hr{
+    color:black;
+}
+h1{
+    color: black;
+}
+h2{
+    color:black
+}
+p{
+    color: black
+}
+.img1{
+    width: 10px;
+    height: 15px;
+}
+button{
+    background-color: palevioletred;
+}
