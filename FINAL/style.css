@@ -4,28 +4,58 @@ body{
 }
 .cabecera{
     color: #fff;
-    height: 400px;
-    line-height: 400px;
+    height: 200px;
+    line-height: 200px;
     text-align: center;
     vertical-align: middle;
     text-shadow: black 0px 0px 10px;
 }
 hr{
     color:black;
+    text-align: center;
+    font-size: 4px;
 }
 h1{
     color: black;
+    text-align: center;
+    font-size: 100px;
 }
 h2{
-    color:black
+    color:black;
+    text-align: left;
+    
+}
+h3{
+    color: black;
+    text-align: justify;
+    font-size: 30px;
+}
+h4{
+    color: black;
+    text-align: justify;
+    font-size: 30px;
+}
+h5{
+    color: black;
+    font-size: 30px;
+}
+h6{
+    color: black;
+    font-size: 30px;
+}
+h7{
+    color: black;
+    text-align: justify;
+    font-size: 30px;
 }
 p{
-    color: black
+    color: black;
+    text-align: justify;
+  
 }
-.img1{
-    width: 10px;
-    height: 15px;
+img{
+    text-align: justify;
+    height: 50%;
+    line-height:100px ;
 }
-button{
-    background-color: palevioletred;
-}
+
